@@ -6,5 +6,5 @@ done as a uni project, simple java game. It's very unpolished because it was eno
 - make play - to start game.
 
 ## Authors and acknowledgment
-Szymon Urban
-Krzysztof Wojtiuk
+- Szymon Urban
+- Krzysztof Wojtiuk
